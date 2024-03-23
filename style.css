@@ -1,0 +1,28 @@
+iframe{
+    border-bottom-left-radius: 75%;
+    border-bottom-right-radius: 75%;
+    border-top-right-radius: 75%;
+    border-top-left-radius: 75%;
+    margin: 5%;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #d2d0d0;
+    text-align: center;
+    padding: 10px;
+  }
+
+thead{
+    background-color: rgb(230, 226, 226);
+}
+
+.row{
+    background-color: rgba(241, 241, 241, 0.667);
+}
